@@ -1,11 +1,11 @@
 # Site settings
-author: recursive-search-7757
-title: 
+author: Saudia Schwegler
+title: My Personal Introduction
 header-img: img/home-bg.png
 email: saudiaschwegler@gmail.com
-copyright_name: recursive-search-7757
+copyright_name: Saudia Schwegler
 description: > # this means to ignore newlines until "baseurl:"
-  
+  About Me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ssaudia
